@@ -11,9 +11,10 @@ script's own directory would exit 1.
 import os
 import sys
 
+# Sharpened line (resubmit): em-dashes are U+2014, file stays UTF-8.
 LINE = (
-    "Technically I didn't lose. The ranking system lost me. "
-    "I'm filing a formal complaint with myself."
+    "I didn't lose. The ranking system lost me. "
+    "My appeal is filed — with myself — and I've already rejected it."
 )
 
 
